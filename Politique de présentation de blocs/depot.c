@@ -1,8 +1,3 @@
-//
-// Created by Benjamin Lesieux on 18/04/2020.
-//
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
