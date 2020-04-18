@@ -1,8 +1,3 @@
-//
-// Created by Benjamin Lesieux on 18/04/2020.
-//
-
-
 int checkValidity(int **plateau, int dimX, int dimY, int**block, int x, int y);
 
 /**
