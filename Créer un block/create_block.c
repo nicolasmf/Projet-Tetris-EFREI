@@ -11,7 +11,7 @@
 * Le but est donc de trouver un moyen plus rapide que de saisir la forme block par block (Hint : Utilisez des boucles ;) ).
 * 
 *
-* N'oubliez pas qu'une fonction display_ascii est donnée sur moodle, ce qui permet d'afficher " " à la place de 0, "*" à la place de 1 et "#" à la place de 2.
+* N'oubliez pas qu'une fonction display_ascii est donnée sur moodle, ce qui permet d'afficher " " à la place de 0, "*" à la place de 1 et "#" à la place de 2.  
 */
 
 
