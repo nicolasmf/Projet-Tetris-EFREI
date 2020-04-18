@@ -19,6 +19,9 @@ int checkValidity(int **plateau, int dimX, int dimY, int**block, int x, int y);
  * @return 0 - Si valide, 1 - Si non valide
  * @info - On retourne un int car cela nous permettra de l'inclure dans une condition en tant que booléen
  * afin d'empêcher la pose du bloc dans le plateau, ou non.
+ *
+ *
+ * :D
  * */
 int checkValidity(int **plateau, int dimX, int dimY, int **block, int x, int y) {
 
