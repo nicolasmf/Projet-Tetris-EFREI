@@ -7,7 +7,7 @@
  * Ce qui veut dire que la première case de la plateforme de jeu ne sera pas [0][0] mais en [2][2] dans mon cas.
  * En effet, lorsqu'on regarde la bordure (Voir annexe) on voit que celle ci fait deux de large à gauche et en haut.
  * 
- * Les valeurs ont été changées par des "$". On ne fait pas le travail à votre place.
+ * Les valeurs ont été changées par des "$". On ne fait pas le travail à votre place. 
  */
 
 int** create_borders(int r, int c)
