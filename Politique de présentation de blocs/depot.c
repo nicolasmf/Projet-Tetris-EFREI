@@ -39,5 +39,8 @@ int ***politiquePresBloc2(int typePlateau) {
         } else {
             id = borne1 + rand() % borne2; // pareil (ici c'est pour les blocs communs à tous)
         }
+        
+        int **block = createBlock((int)id); // On crée notre joli bloc
+        selectedBlocks[i] = block;
     }
 }
